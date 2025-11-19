@@ -3,20 +3,24 @@ Gathering the outputs from different repositories for cool visualizations such a
 
 ```mermaid
 mindmap
-  root((🐞 Bugs))
-    Analysis
-      Focus on bug
-      Do risk analysis
-    Priority
-      High occurrence defects
-      High value defects
-      No bug is small
-    Follow-up
-      Detailed description
-      Try more than once
-      Follow up
-      Self rejection is dangerous
-    Process
-      RCA
-      Created By
-      Credits
+  root((QA Mindmap))
+    Bugs
+      Analysis
+        Root Cause Analysis
+        High-risk defects
+      Behavior
+        Intermittent issues
+        Environment-specific issues
+    Testing
+      Manual
+        Functional
+        Exploratory
+      Automation
+        UI
+        API
+        Performance
+    Tools
+      Jira
+      Selenium
+      Postman
+      JMeter
