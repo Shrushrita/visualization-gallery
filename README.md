@@ -1,19 +1,21 @@
 # visualization-gallery
 Gathering the outputs from different repositories for cool visualizations such as 3D reconstructions, heatmaps and many more.
 
-```md
-```mermaid
 mindmap
-  root((🪲 Bugs))
-    🧠 Focus on bug
-    📊 Do risk analysis
-    🏅 Reward high value defects
-    🎯 Correct priority
-    🔥 High occurrence issues first
-    ⚖️ No one is small or big
-    💬 Detailed description
-    📞 Follow up
-    ➕ Add steps
-    🔁 Try more than once
-    🧪 RCA
-    🚫 Self-rejection is dangerous
+  root((🐞 Bugs))
+    Analysis
+      Focus on bug
+      Do risk analysis
+    Priority
+      High occurrence defects
+      High value defects
+      No bug is small
+    Follow-up
+      Detailed description
+      Try more than once
+      Follow up
+      Self rejection is dangerous
+    Process
+      RCA
+      Created By
+      Credits
