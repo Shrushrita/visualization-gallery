@@ -17,7 +17,7 @@ mindmap
         Exploratory
       Automation
         UI
-        API
+          API
         Performance
     Tools
       Jira
