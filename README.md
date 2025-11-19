@@ -2,7 +2,7 @@
 Gathering the outputs from different repositories for cool visualizations such as 3D reconstructions, heatmaps and many more.
 
 
-```mermaid
+
 %%{init: {
   "theme": "default",
   "themeVariables": {
@@ -12,7 +12,7 @@ Gathering the outputs from different repositories for cool visualizations such a
     "nodeTextColor": "#ffffff"
   }
 }}%%
-
+```mermaid
 mindmap
   root((QA Mindmap)):::root
 
