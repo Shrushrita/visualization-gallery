@@ -29,3 +29,28 @@ config:
           end
 
 ```
+
+
+```mermaid
+
+mindmap
+((Bugs))
+  Focus on bug
+  Do risk analysis
+  Dont forget to reward high value defects
+  Put a correct priority
+  Get those resolved first whose chances of occurrence are more
+  No one is small or big
+  Credits
+  RCA
+  self rejection can be dangerous
+  earlier the better and less the cost
+  Created By
+  Follow up
+  do add
+  Detailed description
+  try it out more than once
+
+
+
+```
