@@ -7,7 +7,7 @@ Gathering the outputs from different repositories for cool visualizations such a
   "themeVariables": {
     "primaryColor": "#226e93",
     "primaryTextColor": "#ffffff",
-    "primaryBorderColor": "#0e3d56",
+    "primaryBorderColor": "#ff0000",
     "lineColor": "#226e93",
     "background": "#f7fbfd",
     "fontFamily": "Montserrat"
